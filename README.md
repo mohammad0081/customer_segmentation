@@ -11,8 +11,8 @@
 
   1- The K-means algorithm begins by initializing all the coordinates to “K” cluster centers. (The K number is an input variable and the locations can also be given as input.)
   
-2- With every pass of the algorithm, each point is assigned to its nearest cluster center.
+  2- With every pass of the algorithm, each point is assigned to its nearest cluster center.
 
-3- The cluster centers are then updated to be the “centers” of all the points assigned to it in that pass. This is done by re-calculating the cluster centers as the average of the points in each respective cluster.
+  3- The cluster centers are then updated to be the “centers” of all the points assigned to it in that pass. This is done by re-calculating the cluster centers as the average of the points in each respective cluster.
 
-4- The algorithm repeats until there’s a minimum change of the cluster centers from the last iteration
+  4- The algorithm repeats until there’s a minimum change of the cluster centers from the last iteration
