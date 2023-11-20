@@ -7,6 +7,7 @@
    Customer segmentation helps businesses learn about customers more deeply, so they can know how to market and sell their products, which customers to invest in, and how to improve their marketing techniques
 
 * **What is K-Means ?**
+  
   K-means is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster . in practice, k-means works as fallows :
 
   1- The K-means algorithm begins by initializing all the coordinates to “K” cluster centers. (The K number is an input variable and the locations can also be given as input.)
